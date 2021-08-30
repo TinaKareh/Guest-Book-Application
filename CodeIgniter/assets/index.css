@@ -1,0 +1,25 @@
+.custom{
+  width:80%;
+  margin:0 auto;
+  min-width:350px;
+}
+
+.nav-custom{
+	font-style: oblique;
+	color: Black;
+	font-weight: bold;
+}
+
+.btn-custom{
+	padding: 50px 100px;
+	color: Black;
+	font-style: oblique;
+	 /*background-color: #4CAF50; /* Green */
+	 text-align: center;
+	 font-size: 18px;
+}
+
+.div-custom{
+	padding: 20px !important;
+}
+
